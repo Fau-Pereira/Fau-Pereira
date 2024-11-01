@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi Everyone 👋
 
+I'm Fábio Pereira, an architect and researcher in the field of Artificial Intelligence and Data Analysis applied to Architecture and Urban Planning, especially in Historical Heritage and Geographic Information Systems. I hold a master’s degree in Adult Education with research focused on developing technologies for education. Currently, I've been dedicating myself to studying and developing skills in data analysis and data engineering.
 <!--
 **Fau-Pereira/Fau-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
