@@ -1,0 +1,210 @@
+<div align="center">
+
+# Olá, eu sou Fábio Pereira! 👋
+
+### Engenharia de Dados | Desenvolvimento Python | Engenharia de IA
+
+**Desenvolvendo aplicações orientadas a dados, sistemas inteligentes e soluções geoespaciais.**
+
+📍 Salvador, Bahia, Brasil
+
+[![GitHub](https://img.shields.io/badge/GitHub-Fau--Pereira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fau-Pereira)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um profissional multidisciplinar da área de tecnologia, com formação e experiência em **Desenvolvimento de Software, Arquitetura e Urbanismo, pesquisa acadêmica e liderança de projetos tecnológicos**.
+
+Minha atuação busca integrar Engenharia de Software, Inteligência Artificial e Geotecnologias para desenvolver soluções práticas, inovadoras e orientadas a dados.
+
+Possuo experiência no desenvolvimento de aplicações Python, implementação de sistemas baseados em **Retrieval-Augmented Generation (RAG)** e participação na arquitetura e gestão técnica de soluções que utilizam Inteligência Artificial.
+
+Também atuo como professor universitário na área de tecnologia e participei da concepção, liderança técnica e desenvolvimento de um projeto de IA no Núcleo de Inovação Tecnológica de uma instituição de ensino superior.
+
+Atualmente, estou ampliando meus conhecimentos em **Engenharia de Dados**, com foco em SQL, pipelines de dados, sistemas de bancos de dados, Linux e arquiteturas orientadas à nuvem.
+
+### 🎯 Áreas de interesse
+
+- Engenharia de Dados e pipelines ETL/ELT
+- Desenvolvimento Backend com Python
+- Engenharia de Inteligência Artificial
+- Aplicações com LLMs e agentes de IA
+- Retrieval-Augmented Generation (RAG)
+- SQL e sistemas de bancos de dados
+- Linux e infraestrutura de desenvolvimento
+- Engenharia de Dados Geoespaciais
+- Computação em Nuvem
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Programação e Desenvolvimento
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 Inteligência Artificial
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Applications-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+
+### 🗺️ Geotecnologias e Dados Espaciais
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GIS](https://img.shields.io/badge/Geospatial_Analysis-2E8B57?style=for-the-badge)
+
+### 🐧 Ambiente de Desenvolvimento
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 📚 Tecnologias em Aprimoramento
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 Zélia — Assistente Inteligente de Conhecimento Institucional
+
+**Atuação: Idealizador | Líder Técnico | Desenvolvedor de Software**
+
+A Zélia é uma aplicação de Inteligência Artificial desenvolvida no contexto de um Núcleo de Inovação Tecnológica universitário, com o objetivo de facilitar o acesso ao conhecimento institucional por meio de tecnologias de IA generativa.
+
+Fui responsável pela idealização do projeto e participei de todas as etapas do seu ciclo de desenvolvimento, incluindo concepção da solução, definição da arquitetura técnica, escolha das tecnologias, programação, coordenação da equipe e gerenciamento das entregas.
+
+**Principais competências aplicadas:**
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Desenvolvimento de aplicações Python
+- Processamento e recuperação de documentos
+- Bancos de dados vetoriais
+- Arquitetura de aplicações de IA
+- Liderança técnica e gestão de projetos
+
+🔗 **[Conheça o Projeto Zélia](https://github.com/Fau-Pereira/rag-zelia)**
+
+### 🗺️ RepareAqui — Plataforma WebGIS de Zeladoria Urbana
+
+O RepareAqui é uma plataforma geoespacial voltada ao monitoramento participativo da infraestrutura urbana, permitindo integrar informações territoriais, gestão de ocorrências e análise de dados para apoiar a tomada de decisões.
+
+O projeto explora a integração entre Desenvolvimento de Software, Sistemas de Informação Geográfica e aplicações inteligentes.
+
+**Principais competências aplicadas:**
+
+- Desenvolvimento de aplicações WebGIS
+- Processamento e visualização de dados geoespaciais
+- Gestão de informações urbanas
+- Desenvolvimento Python
+- Visualização e análise de dados
+- Integração de funcionalidades assistidas por IA
+
+🔗 **[Conheça o Projeto RepareAqui](https://github.com/Fau-Pereira/repare-aqui-webgis)**
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=Fau-Pereira&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Estatísticas do GitHub de Fábio Pereira"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fau-Pereira&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Linguagens de programação mais utilizadas"
+/>
+
+</div>
+
+### 📈 Atividade e Contribuições
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Fau-Pereira&theme=tokyo-night&hide_border=true"
+  alt="Gráfico de atividades e contribuições no GitHub"
+/>
+
+</div>
+
+---
+
+## 🎓 Formação Acadêmica e Experiência Profissional
+
+### 💻 Desenvolvimento de Software e Computação
+
+Formação e atuação acadêmica na área de Computação, envolvendo programação, desenvolvimento de software, tecnologias digitais e ensino superior.
+
+### 🏛️ Arquitetura e Urbanismo
+
+Graduação em Arquitetura e Urbanismo, com experiência em análise territorial, Sistemas de Informação Geográfica (SIG), planejamento urbano e aplicação de tecnologias digitais ao ambiente construído.
+
+### 📚 Mestrado em Educação
+
+Mestrado em Educação de Jovens e Adultos, com experiência em pesquisa científica, metodologia acadêmica e desenvolvimento de soluções interdisciplinares.
+
+### 🤖 Liderança de Projetos Tecnológicos
+
+Idealizador, líder técnico e desenvolvedor da Zélia, uma aplicação de Inteligência Artificial concebida e desenvolvida no âmbito de um Núcleo de Inovação Tecnológica universitário.
+
+Atuação envolvendo:
+
+- Concepção e planejamento de soluções tecnológicas
+- Definição de requisitos e arquitetura de software
+- Seleção e avaliação de tecnologias
+- Desenvolvimento e implementação de funcionalidades
+- Coordenação de equipes de desenvolvimento
+- Gerenciamento de entregas e acompanhamento técnico
+
+---
+
+## 🌱 Desenvolvimento Profissional
+
+Atualmente, estou direcionando meu desenvolvimento profissional para a **Engenharia de Dados e a Engenharia de Inteligência Artificial**, aprofundando conhecimentos em:
+
+- SQL avançado e modelagem de bancos de dados relacionais
+- Desenvolvimento de pipelines ETL/ELT
+- Processamento, transformação e validação de dados
+- Engenharia de Dados com Python
+- Ambientes de desenvolvimento Linux
+- Docker e aplicações conteinerizadas
+- Infraestrutura de dados em nuvem
+- Integração entre Engenharia de Dados e Inteligência Artificial
+
+Meu objetivo é desenvolver soluções de dados escaláveis, confiáveis e sustentáveis, explorando a integração entre Engenharia de Software, infraestrutura de dados e Inteligência Artificial.
+
+---
+
+## 🤝 Vamos nos Conectar!
+
+Tenho interesse em colaborar com projetos e iniciativas envolvendo:
+
+**Engenharia de Dados | Python | Inteligência Artificial | Geotecnologias | Open Source**
+
+Sinta-se à vontade para explorar meus repositórios, conhecer meus projetos e entrar em contato para trocar experiências e desenvolver novas soluções.
+
+<div align="center">
+
+### Obrigado por visitar meu perfil! 🚀
+
+</div>
