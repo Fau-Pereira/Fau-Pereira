@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+
 <div align="center">
 
 # Hi, I'm Fábio Pereira! 👋
